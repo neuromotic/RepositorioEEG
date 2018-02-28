@@ -1,14 +1,9 @@
 # Repositorio EEG
-Repositorio de señales EEG de pacientes pediátricos con sospecha de Epilepsia
+Repositorio de señales EEG de pacientes pediátricos con sospecha de Epilepsia en el link:https://drive.google.com/drive/folders/19QOxL1MzwvNE8nblnnZqodEOAKJiaqrS
 
-## Introducción ##
+## Descripcion de Repositorio ##
 
-Puedes colocar los links [así](http://www.google.com.co) o de forma directa: http://www.google.com.co
+La descripcion del repositorio  se encuentra en el enlace: https://drive.google.com/drive/folders/19QOxL1MzwvNE8nblnnZqodEOAKJiaqrS
 
-## Título 1 ##
 
-Párrafo 1.
 
-## Título 2 ##
-
-Párrafo 2.
